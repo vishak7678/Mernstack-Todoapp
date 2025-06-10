@@ -38,7 +38,7 @@ and mobile responsiveness.
 
 ## Getting Started
 ### 1. Clone the Repository
-git clone https://github.com/vishak7678/taskify.git
+git clone https://github.com/vishak7678/Mernstack-Todoapp
 cd Mern Stack-Todo-App
 ### 2. Setup Backend
 cd backend
